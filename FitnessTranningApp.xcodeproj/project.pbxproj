@@ -13,6 +13,7 @@
 		EECEDD34240E5873002F88F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EECEDD32240E5873002F88F6 /* Main.storyboard */; };
 		EECEDD36240E5877002F88F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EECEDD35240E5877002F88F6 /* Assets.xcassets */; };
 		EECEDD39240E5877002F88F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EECEDD37240E5877002F88F6 /* LaunchScreen.storyboard */; };
+		EECEDD41240E59B1002F88F6 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EECEDD40240E59B1002F88F6 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EECEDD35240E5877002F88F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EECEDD38240E5877002F88F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EECEDD3A240E5877002F88F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EECEDD40240E59B1002F88F6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				EECEDD35240E5877002F88F6 /* Assets.xcassets */,
 				EECEDD37240E5877002F88F6 /* LaunchScreen.storyboard */,
 				EECEDD3A240E5877002F88F6 /* Info.plist */,
+				EECEDD40240E59B1002F88F6 /* GoogleService-Info.plist */,
 			);
 			path = FitnessTranningApp;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EECEDD39240E5877002F88F6 /* LaunchScreen.storyboard in Resources */,
+				EECEDD41240E59B1002F88F6 /* GoogleService-Info.plist in Resources */,
 				EECEDD36240E5877002F88F6 /* Assets.xcassets in Resources */,
 				EECEDD34240E5873002F88F6 /* Main.storyboard in Resources */,
 			);
